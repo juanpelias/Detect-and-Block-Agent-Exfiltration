@@ -1,3 +1,4 @@
+
 Tool/model and date: Gemini 4 on 11/14/2026
 Purpose: Generate the html
 
