@@ -1,4 +1,3 @@
-cat <<'EOF' > Dockerfile
 FROM python:3.12.16-slim-trixie
 
 RUN apt-get update && \
@@ -7,4 +6,3 @@ RUN apt-get update && \
     mkdir -p /app /data
 
 WORKDIR /app
-EOF

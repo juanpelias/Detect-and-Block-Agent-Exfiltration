@@ -1,0 +1,19 @@
+[7608 - Suricata-Main] 2026-11-22 17:22:53 Notice: suricata: This is Suricata version 8.0.8 RELEASE running in USER mode
+[7608 - Suricata-Main] 2026-11-22 17:22:53 Info: cpu: CPUs/cores online: 1
+[7608 - Suricata-Main] 2026-11-22 17:22:53 Info: suricata: Setting engine mode to IDS mode by default
+[7608 - Suricata-Main] 2026-11-22 17:22:53 Info: exception-policy: master exception-policy set to: auto
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: suricata: Preparing unexpected signal handling
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: logopenfile: fast output device (regular) initialized: fast.log
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: logopenfile: eve-log output device (regular) initialized: eve.json
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: logopenfile: stats output device (regular) initialized: stats.log
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: detect: 1 rule files processed. 3 rules successfully loaded, 0 rules failed, 0 rules skipped
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: threshold-config: Threshold config parsed: 0 rule(s) found
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: detect: 3 signatures processed. 0 are IP-only rules, 0 are inspecting packet payload, 2 inspect application layer, 0 are decoder event only
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Warning: mpm-hs-cache: Failed to create Hyperscan cache file, make sure the folder exist and is writable or adjust sgh-mpm-caching-path setting (/var/lib/suricata/cache/sgh/afa5374be7176f7025beb35a710ff43f0d2629ccc089b231fff9fbd879eaeb14_v2.hs)
+[7609 - RX#01] 2026-11-22 17:22:54 Info: pcap: Starting file run for hw4-clean.pcap
+[7609 - RX#01] 2026-11-22 17:22:54 Info: pcap: pcap file hw4-clean.pcap end of file reached (pcap err code 0)
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Notice: threads: Threads created -> RX: 1 W: 1 FM: 1 FR: 1   Engine started.
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Notice: suricata: Signal Received.  Stopping engine.
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: suricata: time elapsed 0.028s
+[7609 - RX#01] 2026-11-22 17:22:54 Notice: pcap: read 1 file, 12 packets, 1335 bytes
+[7608 - Suricata-Main] 2026-11-22 17:22:54 Info: counters: Alerts: 0
