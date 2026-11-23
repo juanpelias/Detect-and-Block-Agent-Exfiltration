@@ -2,7 +2,6 @@
 
 A small, fully simulated data-exfiltration incident that runs in a private Docker network. A mock "skill" on an agent container opens an unauthorized listener and, when triggered, sends a fake secret to a mock command-and-control server over plaintext HTTP. The lab then shows how to scan for it, capture it, block it with a firewall, and detect it with Suricata.
 
-Everything is local and fake: no real secrets, no external servers, no real malware.
 
 ## Lab layout
 
